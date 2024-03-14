@@ -4,9 +4,7 @@
 
 **#Mobile**
 
-![99e4f27d-e355-419f-922e-4096eedae08f](https://github.com/Jagadeesh-Udugundla/Jokes/assets/97141186/340dbba4-0a31-47b3-83ea-c1c282da70b3)
 
-![34f13d08-dbb3-4ed9-b3a3-e50be1f99528](https://github.com/Jagadeesh-Udugundla/Jokes/assets/97141186/2bca150b-6385-437f-b750-50658d8aacca)
 
 
 # Getting Started with Create React App
