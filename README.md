@@ -1,3 +1,12 @@
+![image](https://github.com/Jagadeesh-Udugundla/Jokes/assets/97141186/ff4ff3b5-9ce4-42f5-99fc-7b25ea20ddac)
+
+![image](https://github.com/Jagadeesh-Udugundla/Jokes/assets/97141186/e5479d93-a0e8-424d-9d3d-ada82977a964)
+
+![image](https://github.com/Jagadeesh-Udugundla/Jokes/assets/97141186/7191f08c-83f9-4a9a-bb22-1478748760e0)
+
+![image](https://github.com/Jagadeesh-Udugundla/Jokes/assets/97141186/f475db32-cdb4-4c8e-acaf-434b805455cb)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
