@@ -2,9 +2,8 @@
 
 ![image](https://github.com/Jagadeesh-Udugundla/Jokes/assets/97141186/e5479d93-a0e8-424d-9d3d-ada82977a964)
 
-![image](https://github.com/Jagadeesh-Udugundla/Jokes/assets/97141186/7191f08c-83f9-4a9a-bb22-1478748760e0)
-
-![image](https://github.com/Jagadeesh-Udugundla/Jokes/assets/97141186/f475db32-cdb4-4c8e-acaf-434b805455cb)
+**#Mobile**
+![34f13d08-dbb3-4ed9-b3a3-e50be1f99528](https://github.com/Jagadeesh-Udugundla/Jokes/assets/97141186/2bca150b-6385-437f-b750-50658d8aacca)
 
 
 # Getting Started with Create React App
